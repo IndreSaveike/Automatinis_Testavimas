@@ -1,36 +1,28 @@
-﻿<Properties StartupConfiguration="{8DDA18EF-4B15-4AE8-A01D-FC5BB5FB96ED}|Default">
+﻿<Properties StartupConfiguration="{BDABE290-3B61-4EC7-9103-1D2C6073578F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Savarankiskas__Darbas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SeleniumTest FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.SeleniumTestWithoutPOM PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../15uzduotisSeleniumTests/SeleniumEasy/DemoqaTextBoxTest.cs">
-    <Files>
-      <File FileName="Class1.cs" />
-      <File FileName="../15uzduotis_Seleniu_Test/Page/Common.cs" />
-      <File FileName="../15uzduotis/UnitTest1.cs" />
-      <File FileName="../15uzduotis_Seleniu_Test/Driver.cs" />
-      <File FileName="../15uzduotisSeleniumTests/SeleniumEasy/DemoqaTextBoxTest.cs" Line="56" Column="2" />
-      <File FileName="../15uzduotis_Seleniu_Test/Usings.cs" />
-      <File FileName="../15uzduotis_Seleniu_Test/Page/SeleniumEasy/DemoqaTextBox.cs" />
-    </Files>
+  <DisabledProjects>
+    <String>../15uzduotis/15uzduotis.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Automatinis_Testavimas" expanded="True">
+            <Node name="15uzduotis" selected="True" />
             <Node name="15uzduotisSeleniumFramework" selected="True" />
+            <Node name="15uzduotisSeleniumTests" selected="True" />
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Automatinis_Testavimas" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.15uzduotisSeleniumTest FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.SeleniumFramework FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.15uzduotisSeleniumFramework FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.Savarankiskas__Darbas PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.15uzduotisSeleniumTests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.SeleniumTest FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

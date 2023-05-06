@@ -5,11 +5,9 @@ VisualStudioVersion = 25.0.1705.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savarankiskas_Darbas", "Savarankiskas_Darbas.csproj", "{BDABE290-3B61-4EC7-9103-1D2C6073578F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15uzduotisSeleniumFramework", "..\15uzduotis_Seleniu_Test\15uzduotisSeleniumFramework.csproj", "{3EC67498-2AE8-4DF8-9657-DD768D9D8E0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15uzduotisSeleniumFramework", "..\15uzduotisSeleniumFramework\15uzduotisSeleniumFramework.csproj", "{8C82D018-043E-4402-9E14-EBB8C91F1B1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15uzduotisSeleniumTests", "..\15uzduotisSeleniumTests\15uzduotisSeleniumTests.csproj", "{8DDA18EF-4B15-4AE8-A01D-FC5BB5FB96ED}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15uzduotis", "..\15uzduotis\15uzduotis.csproj", "{CD2EBB97-7F14-4139-8FEE-540210EB38DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15uzduotisSeleniumTest", "..\15uzduotisSeleniumTest\15uzduotisSeleniumTest.csproj", "{03821ED3-1428-4C70-BC8C-CF6FAC4D38EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +19,14 @@ Global
 		{BDABE290-3B61-4EC7-9103-1D2C6073578F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDABE290-3B61-4EC7-9103-1D2C6073578F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDABE290-3B61-4EC7-9103-1D2C6073578F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3EC67498-2AE8-4DF8-9657-DD768D9D8E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3EC67498-2AE8-4DF8-9657-DD768D9D8E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3EC67498-2AE8-4DF8-9657-DD768D9D8E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3EC67498-2AE8-4DF8-9657-DD768D9D8E0C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8DDA18EF-4B15-4AE8-A01D-FC5BB5FB96ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8DDA18EF-4B15-4AE8-A01D-FC5BB5FB96ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8DDA18EF-4B15-4AE8-A01D-FC5BB5FB96ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8DDA18EF-4B15-4AE8-A01D-FC5BB5FB96ED}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CD2EBB97-7F14-4139-8FEE-540210EB38DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CD2EBB97-7F14-4139-8FEE-540210EB38DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CD2EBB97-7F14-4139-8FEE-540210EB38DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CD2EBB97-7F14-4139-8FEE-540210EB38DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C82D018-043E-4402-9E14-EBB8C91F1B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C82D018-043E-4402-9E14-EBB8C91F1B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C82D018-043E-4402-9E14-EBB8C91F1B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C82D018-043E-4402-9E14-EBB8C91F1B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03821ED3-1428-4C70-BC8C-CF6FAC4D38EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03821ED3-1428-4C70-BC8C-CF6FAC4D38EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03821ED3-1428-4C70-BC8C-CF6FAC4D38EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03821ED3-1428-4C70-BC8C-CF6FAC4D38EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
