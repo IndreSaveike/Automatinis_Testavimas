@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using NUnit.Framework;
 using _15uzduotisSeleniumFramework;
 using _15uzduotisSeleniumFramework.Pages.SeleniumEasy;
@@ -50,7 +50,7 @@ namespace _15uzduotisSeleniumTests.SeleniumEasy
         [TearDown]
         public void TearDown()
         {
-           // Driver.ShutdownDriver();
+          Driver.ShutdownDriver();
         }
     }
 }
