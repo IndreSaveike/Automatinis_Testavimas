@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15uzduotisSeleniumFramework
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15uzduotisSeleniumTest", "..\15uzduotisSeleniumTest\15uzduotisSeleniumTest.csproj", "{03821ED3-1428-4C70-BC8C-CF6FAC4D38EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16uzduotisDemoEasySeleniumFramework", "..\16uzduotisDemoEasySeleniumFramework\16uzduotisDemoEasySeleniumFramework.csproj", "{E608EAD5-AB13-4017-B47D-78BFB6EE6EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16uzduotisDemoEasySeleniumTest", "..\16uzduotisDemoEasySeleniumTest\16uzduotisDemoEasySeleniumTest.csproj", "{DD6A4AA3-0CCD-4B69-90E6-9DB8196612B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{03821ED3-1428-4C70-BC8C-CF6FAC4D38EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03821ED3-1428-4C70-BC8C-CF6FAC4D38EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03821ED3-1428-4C70-BC8C-CF6FAC4D38EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E608EAD5-AB13-4017-B47D-78BFB6EE6EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E608EAD5-AB13-4017-B47D-78BFB6EE6EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E608EAD5-AB13-4017-B47D-78BFB6EE6EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E608EAD5-AB13-4017-B47D-78BFB6EE6EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6A4AA3-0CCD-4B69-90E6-9DB8196612B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6A4AA3-0CCD-4B69-90E6-9DB8196612B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6A4AA3-0CCD-4B69-90E6-9DB8196612B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6A4AA3-0CCD-4B69-90E6-9DB8196612B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
