@@ -50,7 +50,7 @@ namespace _15uzduotisSeleniumTests.SeleniumEasy
         [TearDown]
         public void TearDown()
         {
-           // Driver.ShutdownDriver();
+          Driver.ShutdownDriver();
         }
     }
 }
